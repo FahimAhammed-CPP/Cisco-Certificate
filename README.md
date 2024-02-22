@@ -20,7 +20,7 @@ The "Introduction to Cybersecurity" course provides a comprehensive overview of 
 - Best practices for securing networks and systems
 
 ## Repository Contents
-- `certificate_image.jpg`: Image file containing the certificate.
+- `Introduction_to_Cybersecurity_Badge.pdf`: Image file containing the certificate.
 - `README.md` (this file): Provides an overview of the certificate and course.
 
 ## How to Verify
